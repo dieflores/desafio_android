@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PrimeraApp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="esta_es_la_etiqueta">Esta es la etiqueta</string>
+
+
 </resources>
